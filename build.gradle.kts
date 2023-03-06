@@ -1,5 +1,6 @@
 plugins {
     id("java")
+    kotlin("jvm") version "1.7.20"
 }
 
 group = "org.sandbox"
